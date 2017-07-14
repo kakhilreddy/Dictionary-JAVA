@@ -112,14 +112,7 @@ TNode root;
 	  }
 
 	}
-        ///to check whether the node is leaf or not
-	boolean isLeaf(TNode root){
-	    int i;
-	    for(i = 0;i < 26; i++)
-	        if(root.next[i] != null)
-	            return false;
-	    return true;
-	}
+        
 
 
 /// loading data from words.txt and initializing trie 
