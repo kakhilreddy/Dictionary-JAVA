@@ -14,10 +14,7 @@ import java.util.logging.Logger;
 import org.json.JSONArray;
 import org.json.JSONObject;
 
-/**
- *
- * @author venkat
- */
+
 public class JsonParser {
     HttpURLConnection c;
     
