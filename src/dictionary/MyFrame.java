@@ -12,10 +12,7 @@ import javax.swing.event.DocumentListener;
 import javax.swing.event.ListSelectionEvent;
 import javax.swing.event.ListSelectionListener;
 
-/**
- *
- * @author venkat
- */
+
 public class MyFrame extends javax.swing.JFrame implements Setter,DocumentListener,ListSelectionListener{
 
     /**
